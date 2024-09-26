@@ -1,0 +1,13 @@
+| training setting |
+	data : Linear
+	active finction : sigmoid
+	optimize method : gd
+	weight initialization : normal
+	epoch : 20000
+	data_reproduction : False
+	convolutional_layer : True
+
+| network parameters |
+	h1 units : 4
+	h2 units : 4
+

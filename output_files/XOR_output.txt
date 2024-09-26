@@ -1,0 +1,17 @@
+| training setting |
+	data : XOR
+	active finction : sigmoid
+	optimize method : gdm
+	weight initialization : normal
+	epoch : 20000
+
+| network parameters |
+	h1 units : 4
+	h2 units : 4
+
+| result |
+	trainning loss = 0.003352094072948981
+
+	testing loss = 0.003351497547732057
+	accuracy = 1.0
+
